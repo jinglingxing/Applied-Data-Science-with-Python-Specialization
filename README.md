@@ -1,2 +1,6 @@
 # Applied-Data-Science-with-Python-Specialization
 Including 4 courses on Coursera, keep updating...
+The code is simply understanding with notes and comments.
+## 1. Introduction to Data Science in Python
+### week 2:
+Using pandas to solve 8 problems, like the question 7 #Which county has had the largest absolute change in population within the period 2010-2015? #(Hint: population values are stored in columns POPESTIMATE2010 through POPESTIMATE2015)
