@@ -9,7 +9,7 @@ This assignment requires more individual learning then the last one did - you ar
 ### week 4:
 This assignment requires more individual learning than previous assignments - you are encouraged to check out the pandas documentation to find functions or methods you might not have used yet, or ask questions on Stack Overflow and tag them as pandas and python related. And of course, the discussion forums are open for interaction with your peers and the course staff.
 
-## 1. Applied machine learning in Python
+## 3. Applied machine learning in Python
 ### assignment 1:
 For this assignment, you will be using the Breast Cancer Wisconsin (Diagnostic) Database to create a classifier that can help diagnose patients. First, read through the description of the dataset (below).
 ### assignment 2:
