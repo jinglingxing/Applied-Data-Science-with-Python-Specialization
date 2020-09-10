@@ -9,6 +9,15 @@ This assignment requires more individual learning then the last one did - you ar
 ### week 4:
 This assignment requires more individual learning than previous assignments - you are encouraged to check out the pandas documentation to find functions or methods you might not have used yet, or ask questions on Stack Overflow and tag them as pandas and python related. And of course, the discussion forums are open for interaction with your peers and the course staff.
 
+## 2. Applied Plotting, Charting & Data Representation in Python
+### Module 1: Principles of Information Visualization
+In this module, you will get an introduction to principles of information visualization. We will be introduced to tools for thinking about design and graphical heuristics for thinking about creating effective visualizations. All of the course information on grading, prerequisites, and expectations are on the course syllabus, which is included in this module.
+### Module 2: Basic Charting
+In this module, you will delve into basic charting. For this week’s assignment, you will work with real world CSV weather data. You will manipulate the data to display the minimum and maximum temperature for a range of dates and demonstrate that you know how to create a line graph using matplotlib. Additionally, you will demonstrate the procedure of composite charts, by overlaying a scatter plot of record breaking data for a given year.
+### Module 3: Charting Fundamentals
+In this module you will explore charting fundamentals. For this week’s assignment you will work to implement a new visualization technique based on academic research. This assignment is flexible and you can address it using a variety of difficulties - from an easy static image to an interactive chart where users can set ranges of values to be used.
+### Module 4: Applied Visualizations
+In this module, then everything starts to come together. Your final assignment is entitled “Becoming a Data Scientist.” This assignment requires that you identify at least two publicly accessible datasets from the same region that are consistent across a meaningful dimension. You will state a research question that can be answered using these data sets and then create a visual using matplotlib that addresses your stated research question. You will then be asked to justify how your visual addresses your research question.
 ## 3. Applied machine learning in Python
 ### assignment 1:
 For this assignment, you will be using the Breast Cancer Wisconsin (Diagnostic) Database to create a classifier that can help diagnose patients. First, read through the description of the dataset (below).
@@ -20,4 +29,21 @@ In this assignment you will train several models and evaluate how effectively th
 This assignment is based on a data challenge from the Michigan Data Science Team (MDST).
 The Michigan Data Science Team (MDST) and the Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) have partnered with the City of Detroit to help solve one of the most pressing problems facing Detroit - blight. Blight violations are issued by the city to individuals who allow their properties to remain in a deteriorated condition. Every year, the city of Detroit issues millions of dollars in fines to residents and every year, many of these fines remain unpaid. Enforcing unpaid blight fines is a costly and tedious process, so the city wants to know: how can we increase blight ticket compliance?
 The first step in answering this question is understanding when and why a resident might fail to comply with a blight ticket. This is where predictive modeling comes in. For this assignment, your task is to predict whether a given blight ticket will be paid on time.
-
+## 4. Applied Text Mining in Python
+### Module 1: Working with Text in Python
+Interpret text in terms of its basic building blocks: sentences and words.
+Identify common problems with raw text and perform text cleaning tasks in Python.
+Write regular expressions to find textual patterns.
+### Module 2: Basic Natural Language Processing
+Describe different natural language tasks.
+Process free text through the NLTK toolkit to tag language constructs onto text.
+Derive meaningful features from text.
+### Module 3: Classification of Text
+Compare text classification to other classification approaches (covered in Applied Machine Learning in Python as well)
+Describe the Naive Bayes and Support Vector Machine algorithms
+Classify text in two classes using one of these approaches in Python
+Identify and extract features from text and transform them into feature vectors for the machine learning models
+### Module 4: Topic Modeling
+Apply WordNet-based similarity measures on text
+Derive semantic topics from a large text collection using LDA
+List and describe techniques for named entity recognition and other information extraction tasks.
