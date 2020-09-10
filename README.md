@@ -1,6 +1,6 @@
 # Applied-Data-Science-with-Python-Specialization
-Including 4 courses on Coursera, keep updating... <\br>
-The code is simply understanding with notes and comments. <\br>
+Including 4 courses on Coursera, keep updating... <br>
+The code is simply understanding with notes and comments. <br>
 ## 1. Introduction to Data Science in Python
 ### week 2:
 Using pandas to solve 8 problems, like the question 7 #Which county has had the largest absolute change in population within the period 2010-2015? #(Hint: population values are stored in columns POPESTIMATE2010 through POPESTIMATE2015)
@@ -31,19 +31,19 @@ The Michigan Data Science Team (MDST) and the Michigan Student Symposium for Int
 The first step in answering this question is understanding when and why a resident might fail to comply with a blight ticket. This is where predictive modeling comes in. For this assignment, your task is to predict whether a given blight ticket will be paid on time.
 ## 4. Applied Text Mining in Python
 ### Module 1: Working with Text in Python
-Interpret text in terms of its basic building blocks: sentences and words. <\br>
-Identify common problems with raw text and perform text cleaning tasks in Python. <\br>
-Write regular expressions to find textual patterns. <\br>
+Interpret text in terms of its basic building blocks: sentences and words. <br>
+Identify common problems with raw text and perform text cleaning tasks in Python. <br>
+Write regular expressions to find textual patterns. <br>
 ### Module 2: Basic Natural Language Processing
-Describe different natural language tasks.<\br>
-Process free text through the NLTK toolkit to tag language constructs onto text.<\br>
-Derive meaningful features from text.<\br>
+Describe different natural language tasks.<br>
+Process free text through the NLTK toolkit to tag language constructs onto text.<br>
+Derive meaningful features from text.<br>
 ### Module 3: Classification of Text
-Compare text classification to other classification approaches (covered in Applied Machine Learning in Python as well)<\br>
-Describe the Naive Bayes and Support Vector Machine algorithms<\br>
-Classify text in two classes using one of these approaches in Python<\br>
-Identify and extract features from text and transform them into feature vectors for the machine learning models<\br>
+Compare text classification to other classification approaches (covered in Applied Machine Learning in Python as well). <br>
+Describe the Naive Bayes and Support Vector Machine algorithms. <br>
+Classify text in two classes using one of these approaches in Python. <br>
+Identify and extract features from text and transform them into feature vectors for the machine learning models. <br>
 ### Module 4: Topic Modeling
-Apply WordNet-based similarity measures on text<\br>
-Derive semantic topics from a large text collection using LDA<\br>
-List and describe techniques for named entity recognition and other information extraction tasks.<\br>
+Apply WordNet-based similarity measures on text. <br>
+Derive semantic topics from a large text collection using LDA. <br>
+List and describe techniques for named entity recognition and other information extraction tasks. <br>
