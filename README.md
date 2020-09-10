@@ -1,6 +1,9 @@
 # Applied-Data-Science-with-Python-Specialization
-Including 4 courses on Coursera, keep updating... <br>
-The code is simply understanding with notes and comments. <br>
+The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. <br>
+
+Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization. After completing those, courses 4 and 5 can be taken in any order. All 5 are required to earn a certificate.
+
+
 ## 1. Introduction to Data Science in Python
 ### week 2:
 Using pandas to solve 8 problems, like the question 7 #Which county has had the largest absolute change in population within the period 2010-2015? #(Hint: population values are stored in columns POPESTIMATE2010 through POPESTIMATE2015)
